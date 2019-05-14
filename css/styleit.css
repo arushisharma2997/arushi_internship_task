@@ -1,0 +1,33 @@
+th, td, p, input {
+            font:14px Verdana;
+        }
+        table, th, td 
+        {
+            border: solid 1px #DDD;
+            border-collapse: collapse;
+            padding: 2px 3px;
+            text-align: center;
+        }
+        th {
+            font-weight:bold;
+        }
+        h1{
+            text-align: center;
+        }
+        input[type="button"]{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 300px;
+  height: 100px;   
+}
+
+
+
